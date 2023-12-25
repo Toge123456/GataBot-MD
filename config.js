@@ -11,8 +11,8 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a para GataBot-MD | Add the numbers to be Owner for GataBot-MD ⋅.━━━━ ⊰  
 
 global.owner = [
-["5492266466080", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["573026191480", '𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 𝙂𝘽 💖🐈', true], 
+["17245423663", '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+["963995891225", '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀', true], 
 ["5492266466080"], 
 ["593968585383"], 
 ["5492266613038"],
@@ -30,7 +30,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["528451003894"]
+global.prems = ["17245423663"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
@@ -46,7 +46,7 @@ global.lenguajeGB = es //Idioma de GataBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.openai_key = 'sk-0'
+global.openai_key = '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'
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
 
 global.openai_org_id = 'org-3'
@@ -115,8 +115,8 @@ global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.author = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
